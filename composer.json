@@ -1,0 +1,13 @@
+{
+    "name": "skd/uts_algorithm",
+    "type": "project",
+    "require": {
+        "miladrahimi/phpcrypt": "5.*",
+        "phpmailer/phpmailer": "^6.6"
+    },
+    "authors": [
+        {
+            "name": "Raditya Firman Syaputra"
+        }
+    ]
+}
